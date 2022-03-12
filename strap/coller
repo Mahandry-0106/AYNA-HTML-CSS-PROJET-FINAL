@@ -1,0 +1,116 @@
+<nav>
+    <div class="row">
+        <div class="col-md-5">
+        <ul>
+            <li class="nav-item"><a href="" class="nav-link" style="color: #fff;">[Events]</a>
+            </li>
+        </ul>
+        
+    </div>
+        <div class="col-md-2">
+            
+        </div>
+        <div class="col-md-5   ">
+            <ul class=" d-flex " style="list-style-type: none;">
+                <li class="nav-item ">
+                    <a href="" class="nav-link" style="color: #fff;" > Search </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" style="color: #fff;" >About </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" style="color: #fff;" >Blog </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" style="color: #fff;" >More </a>
+                </li>
+            </ul>
+         </div>
+    </div>
+</nav>
+
+
+HOME 
+SEARCH 
+ABOUT US 
+ADVERTISE 
+FACEBOOK 
+TWITTER 
+INSTAGRAM 
+BLOG 
+<div class="col-md-2">
+
+</div>
+<div class="col-md-6"> 
+    <input type="email" class="form-control" placeholder="Votre email">
+ </div>
+<div class="col-md-4">
+ <button class="btn-btn">send </button><div class="col-md-2">
+
+                   </div>
+                   <div class="col-md-6"> 
+                       <input type="email" class="form-control" placeholder="Votre email">
+                    </div>
+                   <div class="col-md-4">
+                    <button class="btn-btn">send </button>
+
+
+
+                    <a> Location : current city</a>
+                <a> Suject :Beach time  </a>
+                <a> Initial date : 21/06/2020 </a>
+                <a> Suject :Beach time  </a>
+
+
+                <p class="noir">Location : current city</p>
+
+                <span class="border border-primary"></span>
+                <p class="noir">Suject :Beach time </p>
+
+
+
+                <div class=" container d-flex justify-content-between mt-4">
+                    <p class="noir "> Tel : XXX-XXX</p>
+                    <p class="noir">Bring +1 </p>
+                    <p class="noir"> Day</p>
+                    <p class="noir">Host Verified </p>
+                    <p class="noir "> Your Way</p>
+                    <p class="noir "> Not Required</p>
+
+
+
+                    <div class="row">
+                        <div class="col-md-2">
+                            Tel : XXX-XXX
+                        </div>
+                        <div class="col-md-2">
+                            Bring +1
+                        </div>
+                        <div class="col-md-2">
+                            Day
+                        </div>
+                        <div class="col-md-2">
+                            Host Verified
+                        </div>
+                        <div class="col-md-2">
+                            Your Way
+                        </div>
+                        <div class="col-md-2">
+                            Not Require
+                        </div>
+                    </div>
+
+                    <div class="col-md-3"></div>
+                    <div class="col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <p class="noir">SEARCH EVENTS NEARBY </p>
+                                <form action="">
+                                    <div class="form_group">
+                                        <input type="text" placeholder="Insert your location here ">
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+        
+                    </div>
